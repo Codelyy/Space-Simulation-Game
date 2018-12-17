@@ -1,0 +1,17 @@
+﻿GLUTCallbacks.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl GLUTCallbacks::Timer(int)" (?Timer@GLUTCallbacks@@YAXH@Z)
+OpenGL.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+GLUTCallbacks.obj : error LNK2019: unresolved external symbol __imp_glutGet referenced in function "void __cdecl GLUTCallbacks::Timer(int)" (?Timer@GLUTCallbacks@@YAXH@Z)
+OpenGL.obj : error LNK2001: unresolved external symbol __imp_glutGet
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "public: __cdecl OpenGL::OpenGL(int,char * * const)" (??0OpenGL@@QEAA@HQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "public: void __cdecl OpenGL::Update(void)" (?Update@OpenGL@@QEAAXXZ)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "public: void __cdecl OpenGL::Display(void)" (?Display@OpenGL@@QEAAXXZ)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp_glutPassiveMotionFunc referenced in function "public: void __cdecl OpenGL::InitGL(int,char * * const)" (?InitGL@OpenGL@@QEAAXHQEAPEAD@Z)
+OpenGL.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+OpenGL.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\codel\Documents\Visual Studio 2017\Projects\OpenGL\x64\Debug\OpenGL.exe : fatal error LNK1120: 13 unresolved externals

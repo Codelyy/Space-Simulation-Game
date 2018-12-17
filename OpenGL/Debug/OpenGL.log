@@ -1,0 +1,32 @@
+﻿  Camera.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\maths.h(9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\camera.cpp(77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\camera.cpp(78): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\camera.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\camera.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CelestialObject.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+  GLUTCallbacks.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+  OBJLoader.cpp
+  OpenGL.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\opengl.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SceneGraph.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+  SceneObject.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+  Skybox.cpp
+  Text.cpp
+  Texture2D.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\texture2d.cpp(18): warning C4305: 'return': truncation from 'int' to 'bool'
+  main.cpp
+c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(13): warning C4150: deletion of pointer to incomplete type 'CelestialObject'; no destructor called
+  c:\users\codel\documents\visual studio 2017\projects\opengl\opengl\linkedlist.h(3): note: see declaration of 'CelestialObject'
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\codel\Documents\Visual Studio 2017\Projects\OpenGL\Debug\OpenGL.exe
